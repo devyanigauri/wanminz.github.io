@@ -1,5 +1,5 @@
 Use the following code to create your own page.
-
+```
 <html>
 <head>
   <link rel="stylesheet" type="text/css" href="./style.css">
@@ -25,3 +25,4 @@ Use the following code to create your own page.
     </section>
   </section>
 </body>
+```
