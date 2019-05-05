@@ -10,7 +10,7 @@ p {
   background-blend-mode: lighten;
   #background-color: #D0F79B;
   background-color: rgba(255, 255, 255, 0.5);
-  background-image:url(top.png);
+  background-image:url("/assets/img/top.png");
   height: 110px;
 }
 
@@ -86,8 +86,4 @@ li {
 .botnav a.active {
   background-color: #ddd;
   color: black;
-}
-
-.text1{
-  background-image: url("kids.jpg");
 }

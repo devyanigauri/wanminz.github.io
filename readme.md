@@ -1,7 +1,8 @@
+Use the following code to create your own page.
+
 <html>
 <head>
   <link rel="stylesheet" type="text/css" href="./style.css">
-  <link href="https://fonts.googleapis.com/css?family=Germania+One|Merriweather" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 </head>
