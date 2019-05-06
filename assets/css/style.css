@@ -7,6 +7,16 @@ p{
 h2{
 	font-family: 'Montserrat', sans-serif;
 }
+.text1{
+	margin-left: 15px;
+}
+li{
+	font-family: 'Raleway', sans-serif;
+}
+footer li{
+	font-family: 'Raleway', sans-serif;
+	font-size: 1em;
+}
 .top{
 	#background-color: #D0F79B;
 	background-image:url(top.png);
