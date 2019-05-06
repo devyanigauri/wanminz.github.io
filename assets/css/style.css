@@ -1,5 +1,5 @@
 body {
-	
+
 }
 p{
 	font-family: 'Raleway', sans-serif;
@@ -28,11 +28,7 @@ footer li a {
 }
 .top{
 	#background-color: #D0F79B;
-<<<<<<< HEAD
 	background-image:url("/assets/img/top.png");
-=======
-	background-image:url(top.png);
->>>>>>> 24948c2b4cb25a7bec427d2ab143824d87e018ca
 	background-color: rgba(255, 255, 255, 0.5);
 	background-blend-mode:lighten;
 	height: 110px;
@@ -41,7 +37,7 @@ footer li a {
 	background-color: #8bae53;
 	border-style: double;
   border-width: thick;
-  border-color: #4C6c5a;	
+  border-color: #4C6c5a;
 }
 
 .logo {
@@ -96,5 +92,5 @@ h1 {
 }
 .text1{
 	background-image: url("kids.jpg")
-	
+
 }
