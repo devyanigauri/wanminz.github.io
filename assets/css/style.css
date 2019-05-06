@@ -22,7 +22,7 @@ footer li a {
 }
 .top{
 	#background-color: #D0F79B;
-	background-image:url("./assets/img/top.png");
+	background-image:url("/assets/img/top.png");
 	background-color: rgba(255, 255, 255, 0.5);
 	background-blend-mode:lighten;
 	height: 110px;
