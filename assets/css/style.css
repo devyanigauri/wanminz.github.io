@@ -7,12 +7,6 @@ p{
 h2{
 	font-family: 'Montserrat', sans-serif;
 }
-h1 li{
-	display: inline;
-}
-.HL{
-	color:#FFFFFF;
-}
 .text1{
 	margin-left: 15px;
 }
@@ -48,6 +42,12 @@ h1 {
     font-size: 2.5em;
 	font-family: 'Merriweather', serif;
 }
+h1 li{
+	display: inline;
+}
+.HL{
+	color:#FFFFFF;
+}
 .topnav {
   background-color: #4C6c5a;
   overflow: hidden;
@@ -70,26 +70,7 @@ h1 {
   color: black;
 }
 
-.botnav {
-  background-color: #4CAF50;
-  overflow: hidden;
-}
-.botnav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-.botnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-.botnav a.active {
-  background-color: #ddd;
-  color: black;
-}
+
 .text1{
 	background-image: url("kids.jpg")
 
