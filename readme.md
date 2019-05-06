@@ -9,7 +9,11 @@ Use the following code to create your own page.
 <body>
   <section id="top" class="top">
     <img src="/assets/img/logo-tree.png" alt="logo" style="width:110px;height:100px;" class="logo">
-    <h1>TITLE</h1>
+    <h1>
+      <li>EARTH</li>
+      <li class ="HL">4</li>
+      <li>THEM</li>
+    </h1>
   </section>
   <section class="total">
     <div class="topnav">
