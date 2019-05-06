@@ -15,7 +15,10 @@ li{
 }
 footer li{
 	font-family: 'Raleway', sans-serif;
-	font-size: 0.6em;
+	font-size: 0.8em;
+}
+footer li a {
+	color: #4C6c5a;
 }
 .top{
 	#background-color: #D0F79B;
