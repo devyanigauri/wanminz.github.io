@@ -82,3 +82,7 @@ footer li a {
 	display: block;
 	margin-bottom: 1em;
 }
+
+.effects {
+	list-style-type: circle;
+}
