@@ -1,0 +1,84 @@
+ol {
+	font-family: 'Merriweather', serif;
+	font-size: 2.5em;
+	font-weight: bold;
+	margin: -67px 50px 25px 170px;
+}
+
+ol li {
+	display: inline;
+}
+
+h2,
+.topnav a {
+	font-family: 'Montserrat', sans-serif;
+}
+
+h3,
+p,
+.text1 li,
+footer li {
+	font-family: 'Raleway', sans-serif;
+}
+
+.text1 {
+	margin-left: 15px;
+}
+
+footer li {
+	font-size: 0.8em;
+}
+
+footer li a {
+	color: #4C6C5A;
+}
+
+.top {
+	background-blend-mode: lighten;
+	/* background-color: #D0F79B; */
+	background-color: rgba(255, 255, 255, 0.5);
+	background-image: url("/assets/img/top.png");
+	background-size: cover;
+	height: 150px;
+}
+
+.total {
+	background-color: #8BAE53;
+	border-color: #4C6C5A;
+	border-style: double;
+	border-width: thick;
+}
+
+.logo {
+	margin: 5px 0px -5px 50px;
+	padding-top: 1em;
+}
+
+.HL {
+	color: #FFFFFF;
+}
+
+.topnav {
+	background-color: #4C6C5A;
+	overflow: hidden;
+}
+
+.topnav a {
+	color: #F2F2F2;
+	float: left;
+	font-size: 17px;
+	padding: 14px 16px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.topnav a:hover,
+.topnav a.active {
+	background-color: #ddd;
+	color: black;
+}
+
+.about span {
+	display: block;
+	margin-bottom: 1em;
+}
