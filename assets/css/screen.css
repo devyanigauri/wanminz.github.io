@@ -86,3 +86,12 @@ footer li a {
 .effects {
 	list-style-type: circle;
 }
+
+.QRlink {
+	margin: 0 30 10 70;
+}
+
+.flyer {
+	width: 414;
+	height: 585;
+}
