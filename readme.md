@@ -1,19 +1,20 @@
 Use the following code to create your own page.
 ```
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
+  <link rel="stylesheet" type="text/css" href="/assets/css/screen.css">
   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 </head>
 <body>
   <section id="top" class="top">
     <img src="/assets/img/logo-tree.png" alt="logo" style="width:110px;height:100px;" class="logo">
-    <h1>
+    <ol class="title-text">
       <li>EARTH</li>
       <li class ="HL">4</li>
       <li>THEM</li>
-    </h1>
+    </ol>
   </section>
   <section class="total">
     <div class="topnav">
