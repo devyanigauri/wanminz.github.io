@@ -83,7 +83,8 @@ footer li a {
 	margin-bottom: 1em;
 }
 
-.effects {
+.effects
+.steps {
 	list-style-type: circle;
 }
 
