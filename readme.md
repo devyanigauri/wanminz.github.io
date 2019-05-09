@@ -27,6 +27,11 @@ Use the following code to create your own page.
       <p>
         text text
       </p>
+      <footer>
+        <h3>List of References</h3>
+        <ol class="ref" type="I">
+        </ol>
+      </footer>
     </section>
   </section>
 </body>
