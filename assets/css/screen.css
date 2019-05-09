@@ -35,7 +35,7 @@ footer li a {
 
 .top {
 	background-blend-mode: lighten;
-	/* background-color: #D0F79B; */
+	background-color: #D0F79B;
 	background-color: rgba(255, 255, 255, 0.5);
 	background-image: url("/assets/img/top.png");
 	background-size: cover;
